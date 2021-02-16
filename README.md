@@ -1,2 +1,2 @@
-# Resume-BrianLai
+# resume
 My resume available online with version control.
